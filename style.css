@@ -1,0 +1,24 @@
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+</style>
+@import url('global.css');
+
+@import url('Section/Header.css');
+:root{
+    --roboto: "Roboto", sans-serif
+    --primary-color: 0, 0, 0;
+    --secondary-color 255, 255, 255;
+
+    --blue-color: 31, 132, 239;
+    --red-color: 227, 7, 14;
+    --yelow-color: 255, 210, 0;
+    --green-color: 6, 224, 127;
+
+    --headline-font-size: 42px;
+    --headline-font-weight: 700;
+
+    --subheadline-font-size: 24px;
+    --subheadline-font-weight: 400
+
+    --body-font-size: 18px;
+}
